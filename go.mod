@@ -1,4 +1,4 @@
-module github.com/leon.johnson/echo-prometheus
+module github.com/bigUNO/echo-prometheus
 
 go 1.12
 
